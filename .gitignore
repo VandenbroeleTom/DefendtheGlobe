@@ -34,3 +34,4 @@ out/
 *.rar
 /out/
 /Client/yarn.lock
+/dist/

@@ -1,10 +1,6 @@
 package data;
 
 import Components.Brick;
-import Powers.Effect;
-import Powers.EffectFactory;
-import com.mysql.jdbc.MySQLConnection;
-import com.sun.org.apache.bcel.internal.generic.RETURN;
 import data.util.BCrypt;
 import data.util.MySqlConnection;
 import org.json.simple.JSONArray;
